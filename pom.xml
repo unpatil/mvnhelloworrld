@@ -51,7 +51,7 @@
 		<repository>
 			<id>testrepo</id>
 			<name>testrepo</name>
-			<url>http://13.232.185.155:8081/artifactory/testrepo</url>
+			<url>http://13.232.185.155:8081/artifactory/testrepo/</url>
 		</repository>
 			</distributionManagement>
 
