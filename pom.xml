@@ -49,9 +49,9 @@
     </build>
        	<distributionManagement>
 		<repository>
-			<id>test123</id>
-			<name>test123</name>
-			<url>http://13.232.112.78:8081/artifactory/test123</url>
+			<id>testrepo</id>
+			<name>testrepo</name>
+			<url>http://http:13.232.185.155:8081/artifactory/testrepo</url>
 		</repository>
 			</distributionManagement>
 
