@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.myorganization.app</groupId>
     <name>My App</name>
-    <version>2.0</version>
+    <version>2.1-snap</version>
     <url>http://maven.apache.org</url>
     <packaging>jar</packaging>
 
@@ -50,8 +50,8 @@
        	<distributionManagement>
 		<repository>
 			<id>SNAPSHOT</id>
-			<name>testrepo</name>
-			<url>http://13.232.185.155:8081/artifactory/testrepo/</url>
+			<name>myrepo</name>
+			<url>http://172.25.1.4:8081/artifactory/myrepo/</url>
 		</repository>
 			</distributionManagement>
 
