@@ -47,7 +47,7 @@
 
         </plugins>
     </build>
-	<!--
+	
        	<distributionManagement>
 		<repository>
 			<id>SNAPSHOT</id>
@@ -55,7 +55,7 @@
 			<url>http://10.0.2.15:8081/artifactory/test/</url>
 		</repository>
 			</distributionManagement>
--->
+
 
     <artifactId>test</artifactId>
 </project>
