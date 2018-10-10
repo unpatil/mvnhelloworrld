@@ -50,7 +50,7 @@
        	<distributionManagement>
 		<repository>
 			<id>SNAPSHOT</id>
-			<name>test</name>
+			<name>test-release</name>
 			<url>http://10.0.2.15:8081/artifactory/test/</url>
 		</repository>
 			</distributionManagement>
