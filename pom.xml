@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.myorganization.app</groupId>
     <name>My App</name>
-    <version>2.1-snap</version>
+    <version>2.1-snap-${build.number}</version>
     <url>http://maven.apache.org</url>
     <packaging>jar</packaging>
 
@@ -57,5 +57,5 @@
 			</distributionManagement>
 
 
-    <artifactId>test-${build.number}</artifactId>
+    <artifactId>test</artifactId>
 </project>
