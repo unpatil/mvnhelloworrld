@@ -47,7 +47,7 @@
 
         </plugins>
     </build>
-	
+	<!--
        	<distributionManagement>
 		<repository>
 			<id>SNAPSHOT</id>
@@ -57,5 +57,5 @@
 			</distributionManagement>
 
 
-    <artifactId>test</artifactId>
+    <artifactId>test</artifactId> -->
 </project>
