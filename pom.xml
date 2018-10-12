@@ -57,5 +57,5 @@
 			</distributionManagement>
 
 
-    <artifactId>test</artifactId>
+    <artifactId>test-${build.number}</artifactId>
 </project>
